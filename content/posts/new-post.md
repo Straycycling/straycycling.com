@@ -1,7 +1,7 @@
 ---
 title: "Day 1 - #100daysofcode"
 date: 2023-08-15T18:11:37+02:00
-draft: true
+draft: false
 ---
 
 Starting the #100daysofcode challenge today. Im scheduled to be done November 23. Let's see how that goes.
